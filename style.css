@@ -1,0 +1,28 @@
+.head{
+    width: 100%;
+}
+.container{
+    margin: auto;
+	width: 80%;
+}
+.registration-form {
+	width: 70%;
+    margin: auto;
+}
+.title {
+	text-align: center;
+	margin: 40px 150px;
+    font-size: 42px;
+    padding: 3px;
+	color: rgb(0, 0, 0);
+    background-color: rgb(217, 218, 218);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.submit-btn {
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.valid-feedback{
+	color: rgb(23, 107, 4);
+}
